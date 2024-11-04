@@ -8,5 +8,6 @@
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 ## Follow me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ваш-профиль/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ваш-профиль/)
+[![Telegram Channel]()](https://www.linkedin.com/in/ваш-профиль/)
+[![Developer ParaDox]()](https://www.instagram.com/ваш-профиль/)
+<img src="https://cdn.discordapp.com/icons/801696882605686794/a_bd76e67abe4dc50f2bbe152b49563099.jpg?size=256" alt="My Logo" width="20"/> ![Developer ParaDox](https://img.shields.io/badge/My_Logo-FF5733?style=for-the-badge&labelColor=black)

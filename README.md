@@ -2,7 +2,7 @@
 
 ## 💻 Languages and Tools
 
-<div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
+<div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center; background-color: #333; padding: 20px; border-radius: 10px;">
     <a href="https://reactjs.org/" style="border-radius: 8px; overflow: hidden; text-decoration: none;">
         <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React" />
     </a>
@@ -24,7 +24,7 @@
 
 ## 📬 Follow Me
 
-<div style="display: flex; gap: 15px; justify-content: center; margin-top: 20px;">
+<div style="display: flex; gap: 15px; justify-content: center; margin-top: 20px; background-color: #333; padding: 20px; border-radius: 10px;">
     <a href="https://discord.com/users/ваш-аккаунт" style="border-radius: 8px; overflow: hidden; text-decoration: none;">
         <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
     </a>
@@ -38,4 +38,3 @@
 ### 🌐 Let's Connect!
 
 I'm passionate about building user-friendly interfaces and love collaborating on exciting projects. Feel free to reach out!
-

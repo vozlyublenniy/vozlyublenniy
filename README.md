@@ -3,7 +3,7 @@
 ### Languages and tools
 ![Photoshop](https://img.shields.io/badge/-Photoshop-090909?style=for-the-badge&logo=adobephotoshop)
 ![Frontend](https://img.shields.io/badge/-Frontend-090909?style=for-the-badge&logo=html5)
-![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-090909?style=for-the-badge&logo=shield)
+[![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-090909?style=for-the-badge&logo=shield)](https://img.icons8.com/?size=100&id=Doi4r6BENI5M&format=png&color=000000)
 
 ### Contact me
 [![Discord](https://img.shields.io/badge/Discord-090909?style=for-the-badge&logo=discord)](https://discordapp.com/users/740109757620420670)

@@ -8,4 +8,4 @@
 [![Discord](https://img.shields.io/badge/Discord-090909?style=for-the-badge&logo=discord)](https://discordapp.com/users/740109757620420670)
 [![Discord Server](https://img.shields.io/badge/Discord_Server-49021F?style=for-the-badge&logo=discord&logoColor=7A3346)](https://discord.gg/paradoxx)
 [![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/overfame)
-[![Telegram Channel](https://img.shields.io/badge/Telegram_Channel-470137?style=for-the-badge&logo=telegram&logoColor=FF8FD6)](https://t.me/vozlyublenniy)
+[![Telegram Channel](https://img.shields.io/badge/Telegram_Channel-FF61F6?style=for-the-badge&logo=telegram&logoColor=FF8FD6)](https://t.me/vozlyublenniy)

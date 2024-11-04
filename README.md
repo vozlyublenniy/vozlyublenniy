@@ -8,5 +8,6 @@
 
 ## Follow me
 
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord)](https://discord.com/users/ваш-аккаунт)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/ваш-аккаунт)
+[![Discord](https://img.shields.io/badge/Discord-090909?style=for-the-badge&logo=discord)](https://discord.com/users/ваш-аккаунт)
+[![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/ваш-аккаунт)
+

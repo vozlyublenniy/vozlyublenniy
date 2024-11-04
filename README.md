@@ -11,5 +11,5 @@
 ## Follow me
 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/ваш-аккаунт)
-[![Telegram](https://img.shields.io/badge/Telegram-D50000?style=for-the-badge&logo=skull&logoColor=white)](https://t.me/ваш-аккаунт)
+[![Telegram](https://img.shields.io/badge/Telegram-FF2D00?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ваш-аккаунт)
 

@@ -9,9 +9,9 @@
 
 ### Contact me
 [!(https://img.shields.io/badge/Discord-090909?style=for-the-badge&logo=discord)](https://discordapp.com/users/740109757620420670)
-[![ParaDox](https://img.shields.io/badge/Discord_Server-49021F?style=for-the-badge&logo=discord&logoColor=C94E6F)](https://discord.gg/paradoxx)
+[![](https://img.shields.io/badge/Discord_Server-49021F?style=for-the-badge&logo=discord&logoColor=C94E6F)](https://discord.gg/paradoxx)
 [![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/overfame)
-[![Vozlyublenniy](https://img.shields.io/badge/Telegram_Channel-49021F?style=for-the-badge&logo=telegram&logoColor=C94E6F)](https://t.me/vozlyublenniy)
+[![](https://img.shields.io/badge/Telegram_Channel-49021F?style=for-the-badge&logo=telegram&logoColor=C94E6F)](https://t.me/vozlyublenniy)
 
 ### Social networks
 [![Spotify](https://img.shields.io/badge/Spotify-090909?style=for-the-badge&logo=spotify)](https://open.spotify.com/user/kzb0alorxdg9upcgppji1v196)

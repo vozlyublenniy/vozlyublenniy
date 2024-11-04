@@ -1,4 +1,4 @@
-# I'm a web developer at ParaDox Clxn, and my nickname is Vozlyublenniy.
+# I'm a web developer at ParaDox, my nickname is Vozlyublenniy.
 
 ## Languages and tools
 

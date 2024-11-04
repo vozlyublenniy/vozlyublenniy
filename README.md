@@ -5,7 +5,7 @@
 ![Frontend](https://img.shields.io/badge/-Frontend-4A001F?style=for-the-badge&logo=html5)
 
 ### Contact me
-<a href="https://discordapp.com/users/740109757620420670" target="_blank" style="border-radius: 8px;">
+<a href="https://discordapp.com/users/740109757620420670" target="_blank" style="border-radius: 118px;">
   <img src="https://img.shields.io/badge/Discord-4A001F?style=for-the-badge&logo=discord" alt="Discord">
 </a>
 

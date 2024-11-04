@@ -1,7 +1,7 @@
 ## I'am a web developer at ParaDox, my nickname is Vozlyublenniy
 
 ### Languages and tools
-![Photoshop](https://img.shields.io/badge/-Photoshop-090909?style=for-the-badge&logo=adobephotoshop)
+![Photoshop](https://img.shields.io/badge/-Photoshop-238F00?style=for-the-badge&logo=adobephotoshop)
 ![Frontend](https://img.shields.io/badge/-Frontend-090909?style=for-the-badge&logo=html5)
 
 ### Contact me

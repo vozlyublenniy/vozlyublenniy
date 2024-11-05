@@ -1,4 +1,4 @@
-### I'am a web developer at ParaDox, my nickname is Vozlyublenniy
+<img src="[https://example.com/image.jpg](https://cdn.discordapp.com/attachments/1303215669109588049/1303215745064370176/20241105_050700.Problembo.jpg?ex=672af1be&is=6729a03e&hm=20be703f039847174cfc1da51f3ac4e369afa3d762b31ad16f9235250a0f97ee&)" alt="banner" style="width: 100%;">
 
 ### Languages and tools
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=3670A0)

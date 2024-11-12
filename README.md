@@ -1,4 +1,4 @@
-<img src="https://cdn.discordapp.com/attachments/1303519715502719111/1305055168722763866/20241105_050700.Problembo.jpg?ex=6731a2d6&is=67305156&hm=c2a0847865f8d85077626e6e4a0ff2d90d8eee9a835370e43a4e31014f5b0115&" alt="Описание изображения" style="width: 100%;">
+<img src="https://cdn.discordapp.com/attachments/1300266875774570558/1305791563196010587/20241105_050700.Problembo.jpg?ex=673450a9&is=6732ff29&hm=5a071cba3874865851e5587053cf6c6772bb8383790849550f4fa01fa49623b4&" alt="Описание изображения" style="width: 100%;">
 
 ### Languages and tools
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=3670A0)
